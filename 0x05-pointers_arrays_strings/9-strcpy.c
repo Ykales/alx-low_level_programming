@@ -14,5 +14,3 @@ char *_strcpy(char *dest, char *src)
 	dest[a] = '\0';
 	return (dest);
 }
-Footer
-
